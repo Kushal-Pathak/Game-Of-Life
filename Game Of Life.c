@@ -60,7 +60,6 @@ void evolve()
 				n++;
 			if (isAlive(right, down))
 				n++;
-			//}
 
 			if (isAlive(j, i))
 			{
